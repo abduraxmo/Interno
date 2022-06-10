@@ -1,0 +1,157 @@
+/* @media 944, 852, 821, 450px; */
+
+@media screen and (max-width:944px) {
+
+  nav .menu li {
+    margin-left: 25px;
+  }
+
+  nav .menu li a {
+    font-size: 19px;
+  } 
+
+  .section-3-heading, .section-3-img {
+    width: 100%;
+  }
+
+  
+
+  .content{
+    padding-top: 80px;
+  }
+
+  .content li{
+    padding-bottom: 40px;
+  }
+
+  .section3{
+    margin-top: 100px;
+  padding: 0 20px;
+  }
+
+  .section-3-heading {
+    margin-bottom: 40px;
+    text-align: center;
+  }
+
+  .section-3-heading h1 br {
+    display: none;
+  }
+  
+  .section-3-heading p br{
+    display: none;
+  }
+
+
+  .section-3-heading p {
+    padding: 0 40px;
+  }
+
+  .section-3-heading a, .section-3-heading ul img, .section-3-heading ul li {
+    display: none;
+  }
+
+  .section-3-img img {
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+   /* Update ather cods  */
+
+}
+
+
+
+@media screen and (max-width:852px) {
+  nav .menu li {
+    margin-left: 19px;
+  }
+
+  nav .menu li a {
+    font-size: 19px;
+  }
+
+}
+
+
+
+@media screen and (max-width:821px) {
+ 
+ nav .menu {
+    display: none;
+  }
+
+  nav .burger {
+    display: block;
+  }
+
+  .section1 h1, p {
+    text-align: center
+  }
+
+  .section1 h1{
+    font-weight: 300;
+    font-size: 65px;
+    line-height: 75px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+   text-align: center;
+  }
+
+  .section1 .btn{
+    display: none;
+  }
+   
+  /* Update ather cods  */
+
+
+
+ 
+}
+
+@media screen and (max-width:450px) {
+ nav,
+ nav .menu {
+  padding: 10px 30px;
+}
+  .section1 h1{
+    font-weight: 300;
+    font-size: 60px;
+    line-height: 60px;
+    padding-top: 100px;
+padding-right: -60px;
+  }
+  .section1 p{
+    font-weight: 400;
+font-size: 17px;
+line-height: 28px;
+padding-top: 0px;
+padding-left: 60px;
+  }
+
+  .section3 {
+    margin-top: 20px;
+  }
+  
+  .section-3-heading h1 {
+    font-size: 34px;
+    line-height: 40px;
+  }
+  
+  .section-3-heading p {
+    padding: 0;
+    margin: 35px 0;
+    font-size: 16px;
+    line-height: 22px;
+    padding-bottom: 5px;
+  }
+     /* Update ather cods  */
+
+
+ 
+     
+}
+
+
